@@ -1,0 +1,15 @@
+/Users/diamondmartinez-mccall/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.csproj.AssemblyReference.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diamondmartinez-mccall/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfoInputs.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfo.cs
+/Users/diamondmartinez-mccall/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.csproj.CoreCompileInputs.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise
+/Users/diamondmartinez-mccall/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.deps.json
+/Users/diamondmartinez-mccall/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.runtimeconfig.json
+/Users/diamondmartinez-mccall/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.dll
+/Users/diamondmartinez-mccall/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.pdb
+/Users/diamondmartinez-mccall/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.dll
+/Users/diamondmartinez-mccall/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/refint/OperatorExercise.dll
+/Users/diamondmartinez-mccall/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.pdb
+/Users/diamondmartinez-mccall/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.genruntimeconfig.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/ref/OperatorExercise.dll
